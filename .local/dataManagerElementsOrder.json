@@ -1,0 +1,44 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OutResult&Sequence_5",
+        "Result&Sequence_5",
+        "JavaObj&Sequence_5",
+        "Result&Sequence_3",
+        "OutResult&Sequence_3",
+        "JavaObj&Sequence_1",
+        "HtmlContent&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Scrolling.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OutResult&Sequence_9",
+        "Result&Sequence_9",
+        "JavaObj&Sequence_9",
+        "OutResult&Sequence_1",
+        "Result&Sequence_1",
+        "JavaObj&Sequence_1",
+        "HtmlContent&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
